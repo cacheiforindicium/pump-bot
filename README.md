@@ -1,5 +1,5 @@
 # pump-bot
-Simple, yet effective bot to enter into pumps as fast as possible.
+Effective bot to enter pumps fast. Dumping should be done manually.
 
 First, import the project into Visual Studio.
 Then change the key and secret key to your API keys.
